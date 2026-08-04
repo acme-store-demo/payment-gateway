@@ -1,0 +1,4 @@
+replicas: 4
+ledger:
+  host: acme-payments-db.pay-net.internal
+  port: 5432
